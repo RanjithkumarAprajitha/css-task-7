@@ -1,0 +1,36 @@
+body
+{
+    background-color:gold;
+    padding-left: 50px;
+}
+.hd1
+{
+    text-align: center;
+    color: brown;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+.hd2
+{
+    text-align: center; 
+    color: brown;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    margin-top: -20px;
+}
+
+li
+{
+    display:inline;
+    padding: 8px;
+}
+.p2
+{
+    padding-top: 80px;
+    float: left;
+}
+.div1
+{
+    width: 770px;
+    float: left;
+
+}
